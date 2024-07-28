@@ -1,0 +1,1 @@
+# Data too long. Original file: https://github.com/niedev/RTranslator/app/src/main/cpp/third_party/protobuf-lite/strutil.cc
